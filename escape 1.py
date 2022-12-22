@@ -1,0 +1,6 @@
+print("c:\narry")
+print("c:\'narry")
+print("c:\\narry")
+print("c:\"narry")
+print("c:\'narry'")
+print('c:\"narry"')
